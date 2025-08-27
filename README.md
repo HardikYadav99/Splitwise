@@ -40,7 +40,7 @@ From splitting chai bills to managing Goa trip expenses, PayPals makes it easy t
 
 ```
 
-areysid-paypals-splitwiseclone-/
+HardikYadav99-Splitwise-/
 ├── app/               # Next.js App Router pages & layouts
 ├── components/        # UI & feature components
 ├── convex/            # Convex backend functions & schema
@@ -56,8 +56,8 @@ areysid-paypals-splitwiseclone-/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/paypals.git
-   cd paypals
+   git clone https://github.com/<your-username>/Splitwise.git
+   cd Splitwise
 
 
 2. **Install dependencies**
